@@ -34,6 +34,10 @@ I'm an ML/AI Engineer with a growing interest in Data Engineering. I build machi
 ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat&logo=chainlink&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-3178C6?style=flat&logo=chainlink&logoColor=white)
 
+### Data Visualization & ML Apps
+![Gradio](https://img.shields.io/badge/-Gradio-F78D1E?style=flat&logo=gradio&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-008DE3?style=flat&logo=plotly&logoColor=white)
+
 ### Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 [![Pytorch Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)](https://github.com/Lightning-AI/lightning)
